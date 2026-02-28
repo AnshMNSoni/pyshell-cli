@@ -92,7 +92,7 @@ pip install pyshellcli
 ```sh
 pip install -r requirements.txt
 ```
-###### Now, you are good to go...
+###### and done...
 
 ## How to use:
 1️⃣ To experience "pyshell" run:</br>
