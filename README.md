@@ -157,7 +157,11 @@ Thank you for considering contributing! Please follow these steps:
 4. **Push to your fork** (`git push origin feature-branch`).
 5. **Submit a Pull Request** and wait for review.
 
-# 📢 Connect with Me
+## 🟢 Active Contributors
+
+![Contributors](https://contrib.rocks/image?repo=AnshMNSoni/pyshell-cli)
+
+## 📢 Connect with Me
 If you found this project helpful or have any suggestions, feel free to connect:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshmnsoni-0077B5.svg?logo=linkedin)](https://www.linkedin.com/in/anshmnsoni)  
