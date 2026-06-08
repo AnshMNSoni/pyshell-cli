@@ -1,8 +1,8 @@
-# PyShell - Python Based CLI 
+# Squirix - Python Based CLI 
 ### (initiative by @ansh.mn.soni)
 
 ## 👉 Introduction:
-PyShell is a custom-built command-line interface (CLI) that serves as a lightweight yet powerful terminal, developed using Python. It allows users to interact with their system, manage files, process system commands, and perform various utility functions. With a focus on simplicity, speed, and usability, PyShell enhances the standard terminal experience by integrating automation, process management, and network utilities.
+Squirix is a custom-built command-line interface (CLI) that serves as a lightweight yet powerful terminal, developed using Python. It allows users to interact with their system, manage files, process system commands, and perform various utility functions. With a focus on simplicity, speed, and usability, Squirix enhances the standard terminal experience by integrating automation, process management, and network utilities.
 
 ## 🔑 Key Advantages:
 
