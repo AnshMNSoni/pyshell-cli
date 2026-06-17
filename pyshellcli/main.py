@@ -27,6 +27,7 @@ from dotenv import load_dotenv
 from pyshellcli.bulk_file_rename import BulkRenamer
 from pyshellcli.ping import ping 
 from pyshellcli.shortprompt import ShortPrompt
+from pyshellcli.search import FileSearcher
 
 load_dotenv()
 
@@ -197,6 +198,7 @@ def main():
         "git-voice": git.git_voice_command,
         "git-reminder": git.git_reminder,
         "git-offline_sync": git.git_offline_sync,
+        "search": lambda args: FileSearcher().search(args),
     }
 
     scheduler_thread = threading.Thread(target=Task().run_scheduler, daemon=True)

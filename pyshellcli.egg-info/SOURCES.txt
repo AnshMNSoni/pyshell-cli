@@ -11,6 +11,7 @@ pyshellcli/graphs.py
 pyshellcli/linux_commands.py
 pyshellcli/main.py
 pyshellcli/ping.py
+pyshellcli/search.py
 pyshellcli/shortprompt.py
 pyshellcli/song.py
 pyshellcli/statistical.py
